@@ -7,14 +7,14 @@ This Recon Tool is a Python-based utility that helps security professionals to g
 
 ****Features****
 
-Fetch archived URLs for a specified domain from the Wayback Machine.
-Filter URLs based on file extensions (e.g., .js, .html, .php).
-Save output to a file for further use in security analysis.
-User-friendly command-line interface with easy argument parsing.
+* Fetch archived URLs for a specified domain from the Wayback Machine.
+* Filter URLs based on file extensions (e.g., .js, .html, .php).
+* Save output to a file for further use in security analysis.
+* User-friendly command-line interface with easy argument parsing.
 
 ****Requirements****
 
-Python 3.x
-Required Python libraries:
-requests
-argparse
+* Python 3.x
+* Required Python libraries:
+    *requests
+    *argparse
