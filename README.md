@@ -16,5 +16,5 @@ This Recon Tool is a Python-based utility that helps security professionals to g
 
 * Python 3.x
 * Required Python libraries:
-    *requests
-    *argparse
+    **requests
+    **argparse
