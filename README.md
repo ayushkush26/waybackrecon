@@ -12,6 +12,7 @@ This Recon Tool is a Python-based utility that helps security professionals to g
     **argparse
 
 ****Usage****
+
 **python3 wayback_recon.py -d <domain> -o <output_file> -e <extensions>**
    Options:
      * -d or --domain: The domain to retrieve archived URLs for (e.g., example.com).
