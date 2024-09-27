@@ -1,10 +1,7 @@
-# waybackrecon
+**Wayback Recon Tool**
 
-WaybackRecon is a tool that helps security researchers find old versions of websites using the Wayback Machine. It automates the process of looking up historical pages, which can help in:
+**Overview**
 
-    Finding Old Information: You can discover sensitive data that may have been removed.
-    Spotting Security Issues: It reveals vulnerabilities that might have existed in the past.
-    Discovering Subdomains: Helps in identifying additional parts of a website that are no longer active.
-    Understanding Changes: Shows how a website has changed over time.
+This Recon Tool is a Python-based utility that helps security professionals to gather the archived URLs from the Wayback Machine for a given domain.This tool extracts URLs from archived web pages which can be use in penetration testing, and recon purposes and also supports filtering URLs by file extension and saving results to a file for further analysis.
 
-Overall, it’s useful for gathering information that can help improve website security.
+
