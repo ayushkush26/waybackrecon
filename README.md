@@ -13,7 +13,7 @@ This Recon Tool is a Python-based utility that helps security professionals to g
 
 ****Usage****
 
- python waybackrecon.py -d <domain>
+ python waybackrecon.py 
 
    Options:
    
